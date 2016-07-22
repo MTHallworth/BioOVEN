@@ -1,0 +1,7 @@
+Data/
+Figures/
+References/
+Spatial_Layers/
+wc10/
+
+.RData
